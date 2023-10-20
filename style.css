@@ -30,6 +30,10 @@ p{
     gap: 20px 40px;
 }
 
+.vader {
+    grid-column: -2/-1;
+}
+
 .heroes{
     justify-content: right;
 }
